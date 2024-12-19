@@ -291,3 +291,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [19Dec2024 22:52:58.824] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [19Dec2024 22:59:13.980] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [19Dec2024 22:59:30.077] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 23:00:30.875] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 23:01:17.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Infected Human
+[19Dec2024 23:01:31.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[19Dec2024 23:03:25.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/28351, l='ServerLevel[world]', x=211.97, y=-43.25, z=605.30] died: ABucketOfFriedChicken was slain by Beast Patient
+[19Dec2024 23:04:03.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[19Dec2024 23:05:34.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Suit Up]
+[19Dec2024 23:09:55.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/31668, l='ServerLevel[world]', x=258.51, y=46.00, z=618.40] died: Whisper was slain by Skeleton
