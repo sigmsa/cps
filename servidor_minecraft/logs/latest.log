@@ -278,3 +278,42 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [19Dec2024 01:22:40.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
 [19Dec2024 01:25:33.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
 [19Dec2024 01:25:42.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[19Dec2024 01:32:17.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was fungi-fied by Infected Pillager
+[19Dec2024 01:32:20.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[19Dec2024 01:32:35.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[19Dec2024 01:33:58.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer lost connection: You logged in from another location
+[19Dec2024 01:33:58.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer left the game
+[19Dec2024 01:33:58.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kayncer[/[::1]:59270] logged in with entity id 41564 at (-2800.869271186273, 72.0, -694.2090824796569)
+[19Dec2024 01:33:58.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer joined the game
+[19Dec2024 01:34:38.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Fishy Business]
+[19Dec2024 01:34:43.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer lost connection: Timed out
+[19Dec2024 01:34:43.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer left the game
+[19Dec2024 01:39:46.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kayncer[/[::1]:45280] logged in with entity id 43372 at (-2801.0368619990873, 72.0, -692.6215612960631)
+[19Dec2024 01:39:46.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer joined the game
+[19Dec2024 01:40:10.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[19Dec2024 01:40:21.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[19Dec2024 01:40:36.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[19Dec2024 01:42:45.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Not Today, Thank You]
+[19Dec2024 01:43:36.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[19Dec2024 01:43:50.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Phayres
+[19Dec2024 01:43:51.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was eaten alive by Phayres
+[19Dec2024 01:43:58.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[19Dec2024 01:44:00.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Timed out
+[19Dec2024 01:44:00.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[19Dec2024 01:44:04.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Cover Me with Diamonds]
+[19Dec2024 01:44:10.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/48916, l='ServerLevel[world]', x=-2767.73, y=61.86, z=-694.54] died: kayncer died
+[19Dec2024 01:44:46.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Hot Stuff]
+[19Dec2024 01:45:03.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/[::1]:55942] logged in with entity id 50415 at (-2801.4461022952605, 74.03163822472973, -684.1597321335229)
+[19Dec2024 01:45:03.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
+[19Dec2024 01:45:09.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set mainyorick's game mode to Creative Mode]
+[19Dec2024 01:45:50.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! -8.68202428368113,4.49057290433057,3.2540999701483315
+[19Dec2024 01:45:52.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! -8.226964227545523,3.7219086751915142,5.5930207602062865
+[19Dec2024 01:46:49.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/48962, l='ServerLevel[world]', x=-2803.75, y=72.00, z=-688.17] died: kayncer was slain by kayncer
+[19Dec2024 01:46:56.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! -10.109133319399461,0.1537791419968073,3.6173354070355117
+[19Dec2024 01:47:25.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! 4.402078784765763,1.1443679277852112,-9.105112784930952
+[19Dec2024 01:47:29.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! 1.5207058788423637,-10.188594643186804,-0.5255835705744403
+[19Dec2024 01:49:01.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! 5.472905589095262,0.0,-8.873744606335322
+[19Dec2024 01:49:03.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! 2.911823021530381,0.0,-10.135035947087886
+[19Dec2024 01:49:07.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! 5.639126687294265,0.0,-8.46506558140004
+[19Dec2024 01:49:12.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! -3.687180004585116,3.3749797754752393,8.761159068545567
+[19Dec2024 01:49:23.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! -1.263142704544407,3.7492699271767123,9.702041509604214

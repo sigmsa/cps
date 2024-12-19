@@ -304,6 +304,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-19 01:28:48 +0000",
+      "cooked_beef": "2024-12-19 01:40:46 +0000",
       "apple": "2024-12-18 22:53:34 +0000",
       "bread": "2024-12-18 22:55:59 +0000",
       "golden_apple": "2024-12-19 00:50:43 +0000",
@@ -1010,21 +1012,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
+  "mysticsbiomes:mysticsbiomes/root": {
     "criteria": {
-      "has_planks": "2024-12-19 00:55:51 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/food/vanilla_cake": {
-    "criteria": {
-      "has_vanilla": "2024-12-19 00:46:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2024-12-19 00:46:21 +0000"
+      "strawberry_fields": "2024-12-19 00:42:18 +0000"
     },
     "done": true
   },
@@ -1034,111 +1024,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-19 00:55:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2024-12-19 00:59:38 +0000"
-    },
-    "done": true
-  },
   "mysticsbiomes:recipes/transportation/strawberry_boat": {
     "criteria": {
       "in_water": "2024-12-19 00:45:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2024-12-19 00:46:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-12-19 01:21:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2024-12-19 00:55:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-12-19 01:20:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:basalt_deltas": "2024-12-19 01:10:58 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-12-19 01:10:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2024-12-19 01:20:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-19 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2024-12-19 01:20:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2024-12-19 00:55:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-19 01:10:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2024-12-19 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-19 00:55:51 +0000"
-    },
-    "done": true
-  },
-  "mysticsbiomes:recipes/building_blocks/tropical_planks": {
-    "criteria": {
-      "has_logs": "2024-12-19 00:46:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-19 01:20:44 +0000"
     },
     "done": true
   },
@@ -1154,27 +1042,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2024-12-19 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2024-12-19 01:20:44 +0000"
-    },
-    "done": true
-  },
   "mysticsbiomes:recipes/transportation/sea_foam_boat": {
     "criteria": {
       "in_water": "2024-12-19 00:45:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2024-12-19 00:55:51 +0000"
     },
     "done": true
   },
@@ -1184,27 +1054,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_fence": {
+  "mysticsbiomes:recipes/transportation/maple_boat": {
     "criteria": {
-      "has_planks": "2024-12-19 00:54:15 +0000"
+      "in_water": "2024-12-19 00:45:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "has_string": "2024-12-19 01:20:44 +0000"
+      "iron_helmet": "2024-12-19 00:46:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "mysticsbiomes:recipes/food/vanilla_cake": {
     "criteria": {
-      "has_cod": "2024-12-19 01:20:16 +0000"
+      "has_vanilla": "2024-12-19 00:46:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_planks": "2024-12-19 00:54:15 +0000"
+      "has_logs": "2024-12-19 00:46:41 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/building_blocks/tropical_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 00:46:41 +0000"
     },
     "done": true
   },
@@ -1214,69 +1090,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2024-12-19 01:20:44 +0000"
-    },
-    "done": true
-  },
   "spore:spore": {
     "criteria": {
       "requirement": "2024-12-19 00:48:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
+  "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
-      "has_planks": "2024-12-19 00:55:51 +0000"
+      "has_planks": "2024-12-19 00:54:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
+  "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
-      "has_string": "2024-12-19 01:20:44 +0000"
+      "has_planks": "2024-12-19 00:54:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
-      "has_cod": "2024-12-19 01:20:16 +0000"
+      "has_planks": "2024-12-19 00:54:15 +0000"
     },
     "done": true
   },
-  "mysticsbiomes:mysticsbiomes/root": {
+  "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
-      "strawberry_fields": "2024-12-19 00:42:18 +0000"
+      "has_planks": "2024-12-19 00:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-19 00:54:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2024-12-19 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2024-12-19 01:20:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2024-12-19 00:55:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2024-12-19 01:20:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-19 00:55:51 +0000"
     },
     "done": true
   },
@@ -1292,15 +1144,219 @@
     },
     "done": true
   },
-  "mysticsbiomes:recipes/transportation/maple_boat": {
-    "criteria": {
-      "in_water": "2024-12-19 00:45:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-19 00:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-19 00:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-19 00:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-19 00:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-19 00:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-19 00:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-19 00:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-19 00:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-19 00:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-19 00:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 00:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-19 01:10:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-19 01:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-19 01:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-19 01:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-19 01:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-19 01:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-19 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-19 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-19 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-19 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-19 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-19 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-19 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-19 01:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-19 01:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-19 01:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-19 01:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-19 01:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-19 01:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-19 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-19 01:44:45 +0000"
     },
     "done": true
   },
