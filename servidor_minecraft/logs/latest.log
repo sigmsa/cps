@@ -441,3 +441,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [19Dec2024 04:57:52.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Isn't It Iron Pick]
 [19Dec2024 04:57:54.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
 [19Dec2024 04:57:58.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[19Dec2024 04:58:32.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer lost connection: Timed out
+[19Dec2024 04:58:32.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer left the game
