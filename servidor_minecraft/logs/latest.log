@@ -284,3 +284,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [19Dec2024 22:48:46.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Isn't It Iron Pick]
 [19Dec2024 22:48:48.026] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [19Dec2024 22:49:44.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by Infected Human
+[19Dec2024 22:50:24.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Monster Hunter]
+[19Dec2024 22:50:35.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was blown up by Creeper
+[19Dec2024 22:50:45.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[19Dec2024 22:52:37.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[19Dec2024 22:52:58.824] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 22:59:13.980] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 22:59:30.077] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
