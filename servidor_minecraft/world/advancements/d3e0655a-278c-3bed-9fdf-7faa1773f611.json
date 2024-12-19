@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-19 04:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-19 04:15:54 +0000"
@@ -101,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-19 04:27:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-19 04:18:18 +0000"
@@ -137,6 +149,18 @@
     },
     "done": true
   },
+  "jeg:tactical_stock": {
+    "criteria": {
+      "Item": "2024-12-19 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-19 04:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-19 04:18:18 +0000"
@@ -164,6 +188,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-19 04:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-19 04:27:00 +0000"
     },
     "done": true
   },
@@ -200,6 +230,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-19 04:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-19 04:27:00 +0000"
     },
     "done": true
   },
@@ -299,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-19 04:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-19 04:13:39 +0000"
@@ -317,15 +359,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 04:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-19 04:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-19 04:14:18 +0000"
     },
     "done": true
   },
+  "jeg:holographic_sight": {
+    "criteria": {
+      "Item": "2024-12-19 04:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-12-19 04:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-19 04:17:47 +0000"
+    },
+    "done": true
+  },
+  "spore:spore": {
+    "criteria": {
+      "requirement": "2024-12-19 04:26:12 +0000"
     },
     "done": true
   },
@@ -339,8 +411,10 @@
     "criteria": {
       "minecraft:birch_forest": "2024-12-19 04:12:50 +0000",
       "minecraft:beach": "2024-12-19 04:17:15 +0000",
+      "minecraft:sparse_jungle": "2024-12-19 04:28:37 +0000",
       "minecraft:lukewarm_ocean": "2024-12-19 04:23:09 +0000",
       "minecraft:river": "2024-12-19 04:23:10 +0000",
+      "minecraft:forest": "2024-12-19 04:27:41 +0000",
       "minecraft:jungle": "2024-12-19 04:16:01 +0000",
       "minecraft:ocean": "2024-12-19 04:23:13 +0000",
       "minecraft:plains": "2024-12-19 04:21:15 +0000"
@@ -365,6 +439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-19 04:27:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-19 04:18:18 +0000"
@@ -380,6 +460,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-19 04:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-19 04:27:00 +0000"
     },
     "done": true
   },
@@ -444,15 +530,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-19 04:27:00 +0000"
+    },
+    "done": true
+  },
+  "jeg:extended_mag": {
+    "criteria": {
+      "Item": "2024-12-19 04:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-19 04:18:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 04:24:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-19 04:14:22 +0000"
+    },
+    "done": true
+  },
+  "jeg:custom_smg": {
+    "criteria": {
+      "Item": "2024-12-19 04:30:08 +0000"
     },
     "done": true
   },
