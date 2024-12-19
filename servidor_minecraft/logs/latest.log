@@ -298,3 +298,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [19Dec2024 23:04:03.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
 [19Dec2024 23:05:34.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Suit Up]
 [19Dec2024 23:09:55.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/31668, l='ServerLevel[world]', x=258.51, y=46.00, z=618.40] died: Whisper was slain by Skeleton
+[19Dec2024 23:11:07.173] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 lantern
+[19Dec2024 23:13:18.722] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 23:13:54.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Demonid'/33634, l='ServerLevel[world]', x=28.00, y=68.00, z=561.62] died: Demonid was slain by Hollow Assassin
+[19Dec2024 23:15:14.576] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 23:16:15.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/35714, l='ServerLevel[world]', x=99.32, y=88.00, z=611.36] died: LoneGuy hit the ground too hard whilst trying to escape Hollow Soldier
+[19Dec2024 23:18:24.576] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
