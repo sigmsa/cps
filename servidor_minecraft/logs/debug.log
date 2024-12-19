@@ -1771,3 +1771,45 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [19Dec2024 04:14:13.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 04:14:13.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Dec2024 04:17:24.579] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:18:18.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Stone Age]
+[19Dec2024 04:19:06.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Stone Age]
+[19Dec2024 04:19:13.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 04:19:13.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 04:19:49.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Getting an Upgrade]
+[19Dec2024 04:20:50.135] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JhonOK22'/11463, l='ServerLevel[world]', x=-153.34, y=63.00, z=101.93] died: JhonOK22 was burnt to a crisp whilst fighting Beast Patient
+[19Dec2024 04:20:52.836] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/11871, l='ServerLevel[world]', x=-44.38, y=63.00, z=122.62] died: Entity was slain by Beast Patient
+[19Dec2024 04:20:54.085] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:21:14.590] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:21:15.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[19Dec2024 04:21:29.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/13452, l='ServerLevel[world]', x=-238.05, y=66.00, z=-148.50] died: Sire_AwfulThe1st was slain by Hollow Soldier
+[19Dec2024 04:22:16.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was shot by Skeleton
+[19Dec2024 04:22:18.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was eaten alive by mainyorick
+[19Dec2024 04:23:00.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[19Dec2024 04:23:09.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/14359, l='ServerLevel[world]', x=-274.48, y=67.89, z=-136.30] died: mainyorick was eliminated by kayncer
+[19Dec2024 04:23:10.480] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:23:11.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Spore]
+[19Dec2024 04:23:14.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[19Dec2024 04:23:17.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[19Dec2024 04:23:20.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set mainyorick's game mode to Survival Mode]
+[19Dec2024 04:23:22.526] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:23:30.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[19Dec2024 04:24:13.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 04:24:13.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 04:24:40.842] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-280, y=70, z=-138}) doesn't have enough leaves around top most log
+[19Dec2024 04:24:42.682] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-280, y=69, z=-136}) doesn't have enough leaves around top most log
+[19Dec2024 04:26:12.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Spore]
+[19Dec2024 04:26:16.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[19Dec2024 04:26:19.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[19Dec2024 04:26:30.332] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:26:39.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was fungi-fied by Infected Villager
+[19Dec2024 04:26:42.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[19Dec2024 04:26:43.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set mainyorick's game mode to Survival Mode]
+[19Dec2024 04:26:56.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was eaten alive by Volatile
+[19Dec2024 04:27:00.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Getting an Upgrade]
+[19Dec2024 04:27:04.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[19Dec2024 04:27:10.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[19Dec2024 04:27:28.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[19Dec2024 04:27:28.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by Infected Villager
+[19Dec2024 04:27:30.684] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Kraken'/16915, l='ServerLevel[world]', x=-224.08, y=65.00, z=-80.94] died: Kraken was shot by Demonid
+[19Dec2024 04:27:57.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/16784, l='ServerLevel[world]', x=-266.18, y=68.00, z=-132.65] died: kayncer was slain by kayncer
+[19Dec2024 04:28:00.133] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
