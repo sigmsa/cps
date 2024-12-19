@@ -418,3 +418,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [19Dec2024 04:44:28.897] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [19Dec2024 04:47:17.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
 [19Dec2024 04:47:57.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Monster Hunter]
+[19Dec2024 04:48:21.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Monster Hunter]
+[19Dec2024 04:48:31.409] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:49:08.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[19Dec2024 04:49:24.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[19Dec2024 04:50:24.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Timed out
+[19Dec2024 04:50:24.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[19Dec2024 04:50:39.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[19Dec2024 04:50:41.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has reached the goal [Who built this?]
+[19Dec2024 04:51:18.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[19Dec2024 04:52:29.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Acquire Hardware]
+[19Dec2024 04:52:39.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Suit Up]
+[19Dec2024 04:52:42.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/[::1]:36228] logged in with entity id 39625 at (1070.3534620219643, 9.0, 4057.976419306086)
+[19Dec2024 04:52:42.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
+[19Dec2024 04:53:14.739] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:53:27.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Timed out
+[19Dec2024 04:53:27.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[19Dec2024 04:53:55.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Cover Me with Diamonds]
+[19Dec2024 04:54:34.955] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[19Dec2024 04:55:17.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[19Dec2024 04:56:09.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Diamonds!]
+[19Dec2024 04:57:52.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Isn't It Iron Pick]
+[19Dec2024 04:57:54.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[19Dec2024 04:57:58.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
