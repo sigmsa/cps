@@ -1842,3 +1842,33 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [19Dec2024 04:35:23.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
 [19Dec2024 04:36:55.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
 [19Dec2024 04:38:08.684] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/26575, l='ServerLevel[world]', x=-362.50, y=6.00, z=-133.68] died: ABucketOfFriedChicken was slain by Beast Patient
+[19Dec2024 04:38:37.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was eaten alive by Volatile
+[19Dec2024 04:38:46.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[19Dec2024 04:39:13.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 04:39:13.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 04:39:14.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[19Dec2024 04:39:43.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[19Dec2024 04:39:59.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[19Dec2024 04:40:03.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ripley'/28816, l='ServerLevel[world]', x=-228.30, y=23.42, z=-53.70] died: Ripley was slain by Beast Patient
+[19Dec2024 04:40:24.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Sweet Dreams]
+[19Dec2024 04:40:26.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Sweet Dreams]
+[19Dec2024 04:41:14.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[19Dec2024 04:41:39.990] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:41:40.977] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:42:12.181] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:42:21.781] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:42:51.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[19Dec2024 04:43:08.292] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mysticsbiomes:bamboo_blossom_forest took 6074 ms
+[19Dec2024 04:43:08.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6071ms or 121 ticks behind
+[19Dec2024 04:43:08.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! 10.104015941879872,1.1661092609382138,0.2850827603217425
+[19Dec2024 04:43:14.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to 844.500000, 69.000000, 3762.500000]
+[19Dec2024 04:43:15.775] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:43:21.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[19Dec2024 04:43:39.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[19Dec2024 04:43:42.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/32124, l='ServerLevel[world]', x=827.68, y=-10.35, z=3751.88] died: xXFuryXx was slain by Church Doctor
+[19Dec2024 04:43:43.257] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 04:44:19.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 04:44:19.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 04:44:28.897] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[19Dec2024 04:47:17.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[19Dec2024 04:47:57.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Monster Hunter]
