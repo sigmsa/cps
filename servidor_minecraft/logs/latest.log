@@ -304,3 +304,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [19Dec2024 23:15:14.576] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [19Dec2024 23:16:15.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/35714, l='ServerLevel[world]', x=99.32, y=88.00, z=611.36] died: LoneGuy hit the ground too hard whilst trying to escape Hollow Soldier
 [19Dec2024 23:18:24.576] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 23:20:42.582] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 23:20:53.077] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 23:21:57.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Not Today, Thank You]
+[19Dec2024 23:21:58.978] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/38749, l='ServerLevel[world]', x=221.84, y=26.02, z=659.52] died: Sire_AwfulThe1st was slain by Beast Patient
+[19Dec2024 23:23:43.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/40575, l='ServerLevel[world]', x=204.45, y=-15.00, z=562.25] died: Keymind was slain by Church Doctor
+[19Dec2024 23:24:52.780] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Bowser'/40988, l='ServerLevel[world]', x=265.11, y=70.00, z=595.01] died: Bowser was slain by mainyorick
+[19Dec2024 23:25:58.879] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 23:26:11.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Disconnected
+[19Dec2024 23:26:11.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[19Dec2024 23:26:24.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/127.0.107.67:49695] logged in with entity id 41978 at (276.81467239841265, 51.0, 599.3000000119209)
+[19Dec2024 23:26:24.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
+[19Dec2024 23:28:29.192] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/42441, l='ServerLevel[world]', x=219.02, y=69.00, z=601.77] died: Ike was slain by Church Doctor
+[19Dec2024 23:30:17.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 23:31:43.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Skeleton
+[19Dec2024 23:31:55.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[19Dec2024 23:33:15.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Sweet Dreams]
+[19Dec2024 23:33:31.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[19Dec2024 23:34:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Church Doctor
+[19Dec2024 23:34:46.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[19Dec2024 23:35:26.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[19Dec2024 23:36:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[19Dec2024 23:36:36.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/48406, l='ServerLevel[world]', x=228.69, y=50.00, z=616.14] died: Gistique was slain by Beast Patient
+[19Dec2024 23:37:19.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/48692, l='ServerLevel[world]', x=241.71, y=74.00, z=628.89] died: Pajera was slain by Beast Patient
+[19Dec2024 23:40:36.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Disconnected
+[19Dec2024 23:40:36.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
