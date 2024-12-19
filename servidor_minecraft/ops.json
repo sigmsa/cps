@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "baa6aab8-8124-3438-b424-e4761769f4f1",
+    "name": "kayncer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
