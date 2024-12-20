@@ -657,6 +657,7 @@
       "minecraft:skeleton": "2024-12-19 22:53:09 +0000",
       "minecraft:spider": "2024-12-19 23:26:53 +0000",
       "minecraft:creeper": "2024-12-19 23:02:16 +0000",
+      "minecraft:slime": "2024-12-20 01:49:12 +0000",
       "minecraft:witch": "2024-12-19 22:50:24 +0000",
       "minecraft:zombie": "2024-12-19 23:12:10 +0000"
     },
@@ -887,6 +888,72 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-19 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "jeg:drum_mag": {
+    "criteria": {
+      "Item": "2024-12-20 02:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 01:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-20 01:51:25 +0000"
+    },
+    "done": true
+  },
+  "jeg:assault_rifle": {
+    "criteria": {
+      "Item": "2024-12-20 01:59:43 +0000"
+    },
+    "done": true
+  },
+  "jeg:angled_grip": {
+    "criteria": {
+      "Item": "2024-12-20 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "jeg:silencer": {
+    "criteria": {
+      "Item": "2024-12-20 02:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 01:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-20 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-20 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 01:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-20 01:51:25 +0000"
     },
     "done": true
   },
