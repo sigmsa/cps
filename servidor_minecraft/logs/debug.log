@@ -1955,3 +1955,51 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [21Dec2024 03:14:23.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
 [21Dec2024 03:15:43.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 03:15:43.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 03:16:50.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Teleported kayncer to mainyorick]
+[21Dec2024 03:18:31.171] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1205, y=104, z=1600}) doesn't have enough leaves around top most log
+[21Dec2024 03:19:49.782] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1212, y=108, z=1600}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:17.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 03:20:20.154] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1204, y=106, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:20.786] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1204, y=105, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:21.789] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1204, y=104, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:22.546] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1205, y=104, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:23.291] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1206, y=104, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:23.993] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1207, y=104, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:26.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by mainyorick
+[21Dec2024 03:20:28.196] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1208, y=104, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:28.888] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1209, y=104, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:29.591] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1210, y=104, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:30.302] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1211, y=104, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:31.000] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1212, y=104, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:31.777] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1212, y=106, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:32.782] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1212, y=105, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:33.765] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1212, y=107, z=1611}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:35.479] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1212, y=104, z=1610}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:37.971] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1212, y=102, z=1608}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:39.745] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1205, y=107, z=1607}) doesn't have enough leaves around top most log
+[21Dec2024 03:20:43.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 03:20:43.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 03:21:24.842] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1195, y=104, z=1600}) doesn't have enough leaves around top most log
+[21Dec2024 03:21:32.012] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1197, y=104, z=1600}) doesn't have enough leaves around top most log
+[21Dec2024 03:21:32.837] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1196, y=104, z=1600}) doesn't have enough leaves around top most log
+[21Dec2024 03:22:00.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[21Dec2024 03:22:24.342] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:22:31.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 03:22:37.018] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1207, y=105, z=1602}) doesn't have enough leaves around top most log
+[21Dec2024 03:23:47.307] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1204, y=107, z=1600}) doesn't have enough leaves around top most log
+[21Dec2024 03:23:49.796] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1203, y=105, z=1600}) doesn't have enough leaves around top most log
+[21Dec2024 03:23:50.504] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1203, y=104, z=1600}) doesn't have enough leaves around top most log
+[21Dec2024 03:23:51.204] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1203, y=103, z=1600}) doesn't have enough leaves around top most log
+[21Dec2024 03:23:51.871] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1203, y=102, z=1600}) doesn't have enough leaves around top most log
+[21Dec2024 03:24:07.220] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1205, y=108, z=1605}) doesn't have enough leaves around top most log
+[21Dec2024 03:25:43.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 03:25:43.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 03:25:59.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/73892, l='ServerLevel[world]', x=1164.27, y=11.00, z=1647.52] died: That_Insane_Guy was slain by Skeleton
+[21Dec2024 03:26:17.956] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1205, y=108, z=1609}) doesn't have enough leaves around top most log
+[21Dec2024 03:26:18.668] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1205, y=108, z=1608}) doesn't have enough leaves around top most log
+[21Dec2024 03:26:19.382] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1205, y=108, z=1607}) doesn't have enough leaves around top most log
+[21Dec2024 03:26:20.106] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1205, y=108, z=1606}) doesn't have enough leaves around top most log
+[21Dec2024 03:26:20.800] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1205, y=108, z=1605}) doesn't have enough leaves around top most log
+[21Dec2024 03:26:21.508] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1205, y=108, z=1604}) doesn't have enough leaves around top most log
+[21Dec2024 03:26:22.199] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1205, y=108, z=1603}) doesn't have enough leaves around top most log
+[21Dec2024 03:26:22.898] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1205, y=108, z=1602}) doesn't have enough leaves around top most log

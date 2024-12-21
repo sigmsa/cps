@@ -381,3 +381,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [21Dec2024 03:14:03.710] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [21Dec2024 03:14:08.000] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/68322, l='ServerLevel[world]', x=1260.99, y=63.00, z=1597.89] died: kayncer fell from a high place
 [21Dec2024 03:14:23.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 03:16:50.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Teleported kayncer to mainyorick]
+[21Dec2024 03:20:17.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 03:20:26.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by mainyorick
+[21Dec2024 03:22:00.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[21Dec2024 03:22:24.342] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:22:31.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 03:25:59.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/73892, l='ServerLevel[world]', x=1164.27, y=11.00, z=1647.52] died: That_Insane_Guy was slain by Skeleton
