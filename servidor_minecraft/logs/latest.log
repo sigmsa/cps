@@ -413,3 +413,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [21Dec2024 03:43:58.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1199, y=105, z=1606} BlockPos{x=1199, y=104, z=1607}
 [21Dec2024 03:44:03.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1199, y=105, z=1606} BlockPos{x=1199, y=104, z=1607}
 [21Dec2024 03:45:10.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1199, y=105, z=1605} BlockPos{x=1199, y=104, z=1605}
+[21Dec2024 03:47:30.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[21Dec2024 03:49:57.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1199, y=105, z=1605} BlockPos{x=1199, y=104, z=1605}
+[21Dec2024 03:50:04.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1199, y=105, z=1605} BlockPos{x=1199, y=104, z=1606}
+[21Dec2024 03:50:05.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1199, y=105, z=1605} BlockPos{x=1198, y=104, z=1606}
+[21Dec2024 03:50:05.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1199, y=105, z=1605} BlockPos{x=1199, y=104, z=1606}
+[21Dec2024 03:51:05.301] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:53:45.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 03:56:22.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[21Dec2024 03:56:30.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
+[21Dec2024 03:56:48.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
