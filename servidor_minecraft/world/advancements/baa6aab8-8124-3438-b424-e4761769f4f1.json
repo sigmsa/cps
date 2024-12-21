@@ -1128,7 +1128,8 @@
   },
   "hopo:minecraft/adventure/all_mineshaft": {
     "criteria": {
-      "locate_birch_mineshaft": "2024-12-21 02:14:15 +0000"
+      "locate_birch_mineshaft": "2024-12-21 02:14:15 +0000",
+      "locate_vanilla_mineshaft": "2024-12-21 02:43:15 +0000"
     },
     "done": false
   },
