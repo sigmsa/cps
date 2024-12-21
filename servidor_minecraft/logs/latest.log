@@ -388,3 +388,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [21Dec2024 03:22:24.342] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [21Dec2024 03:22:31.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
 [21Dec2024 03:25:59.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/73892, l='ServerLevel[world]', x=1164.27, y=11.00, z=1647.52] died: That_Insane_Guy was slain by Skeleton
+[21Dec2024 03:26:45.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer fell from a high place
+[21Dec2024 03:28:52.595] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:34:29.850] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:35:35.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was blown up by Creeper
+[21Dec2024 03:36:18.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[21Dec2024 03:36:22.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! -9.043973005498628,-3.3749797754752393,3.6846875464323148
+[21Dec2024 03:36:28.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 03:36:57.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 03:37:04.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[21Dec2024 03:37:08.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 03:37:27.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/78546, l='ServerLevel[world]', x=1294.45, y=3.00, z=1627.79] died: xXFuryXx was doomed to fall by Skeleton
+[21Dec2024 03:37:48.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[21Dec2024 03:39:15.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
+[21Dec2024 03:40:27.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 03:41:06.154] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:41:28.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
+[21Dec2024 03:41:32.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[21Dec2024 03:43:31.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[21Dec2024 03:43:53.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 03:43:56.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1199, y=105, z=1606} BlockPos{x=1199, y=104, z=1606}
+[21Dec2024 03:43:57.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1199, y=105, z=1606} BlockPos{x=1199, y=104, z=1606}
+[21Dec2024 03:43:57.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1199, y=105, z=1606} BlockPos{x=1199, y=104, z=1606}
+[21Dec2024 03:43:58.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1199, y=105, z=1606} BlockPos{x=1199, y=104, z=1607}
+[21Dec2024 03:44:03.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1199, y=105, z=1606} BlockPos{x=1199, y=104, z=1607}
+[21Dec2024 03:45:10.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1199, y=105, z=1605} BlockPos{x=1199, y=104, z=1605}
