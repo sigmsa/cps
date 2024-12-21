@@ -2109,3 +2109,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [21Dec2024 04:14:09.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer left the game
 [21Dec2024 04:15:43.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 04:15:43.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 04:17:16.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by Phayres
+[21Dec2024 04:17:33.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
+[21Dec2024 04:18:01.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/92828, l='ServerLevel[world]', x=1437.88, y=-31.00, z=1458.77] died: LoneGuy was slain by Skeleton
+[21Dec2024 04:20:42.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/92829, l='ServerLevel[world]', x=1441.31, y=-29.86, z=1477.15] died: Pajera was burnt to a crisp whilst fighting Church Doctor
+[21Dec2024 04:20:43.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 04:20:43.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 04:21:32.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[21Dec2024 04:22:40.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/94609, l='ServerLevel[world]', x=1271.22, y=25.00, z=1444.22] died: That_Insane_Guy was slain by Skeleton
+[21Dec2024 04:22:47.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Usurper
+[21Dec2024 04:23:01.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Disconnected
+[21Dec2024 04:23:01.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[21Dec2024 04:25:43.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 04:25:43.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
