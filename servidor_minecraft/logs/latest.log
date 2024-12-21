@@ -324,3 +324,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [21Dec2024 02:54:04.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
 [21Dec2024 02:54:41.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
 [21Dec2024 02:55:21.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick tried to swim in lava
+[21Dec2024 02:55:48.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer tried to swim in lava
+[21Dec2024 02:57:41.098] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 02:58:52.505] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 02:58:58.696] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 02:59:21.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=723, y=74, z=1388} BlockPos{x=724, y=73, z=1386}
+[21Dec2024 03:01:17.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Teleported mainyorick to kayncer]
+[21Dec2024 03:01:36.597] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ripley'/54285, l='ServerLevel[world]', x=494.56, y=37.00, z=1386.67] died: Ripley was slain by Skeleton
+[21Dec2024 03:01:51.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was doomed to fall by mainyorick
+[21Dec2024 03:01:52.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/53262, l='ServerLevel[world]', x=555.25, y=20.25, z=1398.45] died: Keymind was slain by Bonewheel
+[21Dec2024 03:01:55.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 03:02:10.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:02:37.016] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:02:54.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[21Dec2024 03:02:59.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer fell from a high place
+[21Dec2024 03:03:03.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 03:03:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 03:03:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer fell from a high place
+[21Dec2024 03:03:27.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 03:04:30.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 03:04:50.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick fell from a high place
+[21Dec2024 03:04:51.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer fell from a high place
+[21Dec2024 03:05:01.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[21Dec2024 03:05:21.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
+[21Dec2024 03:05:28.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Teleported mainyorick to kayncer]

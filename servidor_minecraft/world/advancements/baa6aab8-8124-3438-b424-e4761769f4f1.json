@@ -11,10 +11,12 @@
       "minecraft:river": "2024-12-20 23:16:11 +0000",
       "minecraft:snowy_plains": "2024-12-20 23:12:18 +0000",
       "minecraft:snowy_taiga": "2024-12-20 23:13:51 +0000",
+      "minecraft:dripstone_caves": "2024-12-21 03:02:59 +0000",
       "minecraft:cold_ocean": "2024-12-21 02:19:52 +0000",
       "minecraft:forest": "2024-12-21 02:07:12 +0000",
       "minecraft:frozen_ocean": "2024-12-19 16:08:25 +0000",
       "minecraft:snowy_beach": "2024-12-19 16:07:28 +0000",
+      "minecraft:meadow": "2024-12-21 03:01:12 +0000",
       "minecraft:plains": "2024-12-21 02:08:34 +0000"
     },
     "done": false
@@ -754,6 +756,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-20 23:29:23 +0000",
+      "beef": "2024-12-21 02:59:06 +0000",
+      "mutton": "2024-12-21 02:59:10 +0000",
       "golden_apple": "2024-12-21 02:30:53 +0000",
       "glow_berries": "2024-12-21 02:26:52 +0000",
       "golden_carrot": "2024-12-21 02:37:58 +0000"
@@ -1060,6 +1064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-21 02:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-21 02:37:41 +0000"
@@ -1090,6 +1100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-21 02:58:58 +0000"
+    },
+    "done": true
+  },
   "jeg:repeating_shotgun": {
     "criteria": {
       "Item": "2024-12-21 02:27:15 +0000"
@@ -1114,6 +1130,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-21 02:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-21 02:58:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-21 02:21:25 +0000"
@@ -1132,6 +1160,12 @@
       "locate_vanilla_mineshaft": "2024-12-21 02:43:15 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 02:58:45 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
@@ -1193,6 +1227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-21 02:58:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-21 02:21:25 +0000"
@@ -1220,6 +1260,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 02:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 02:58:39 +0000"
     },
     "done": true
   },
@@ -1271,6 +1317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-21 02:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-21 02:22:24 +0000"
@@ -1301,6 +1353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-21 02:58:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 02:27:17 +0000"
@@ -1319,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-21 02:58:58 +0000"
+    },
+    "done": true
+  },
   "morevanillaarmor:recipes/combat/obsidian_leggings": {
     "criteria": {
       "has_the_recipe": "2024-12-21 02:34:36 +0000"
@@ -1328,6 +1392,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-21 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-21 02:58:39 +0000"
     },
     "done": true
   },
@@ -1445,9 +1515,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 02:58:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-21 02:14:29 +0000"
+    },
+    "done": true
+  },
+  "jeg:grenade": {
+    "criteria": {
+      "Item": "2024-12-21 02:57:01 +0000"
     },
     "done": true
   },
@@ -1487,6 +1569,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 02:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-21 02:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-21 02:15:52 +0000"
@@ -1496,6 +1590,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2024-12-21 02:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 02:58:39 +0000"
     },
     "done": true
   },
@@ -1532,6 +1632,12 @@
   "morevanillaarmor:recipes/combat/obsidian_chestplate": {
     "criteria": {
       "has_the_recipe": "2024-12-21 02:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-21 02:58:58 +0000"
     },
     "done": true
   },
@@ -1583,6 +1689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 02:58:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-21 02:15:52 +0000"
@@ -1631,6 +1743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-21 02:58:57 +0000"
+    },
+    "done": true
+  },
   "jeg:root": {
     "criteria": {
       "Item": "2024-12-21 02:11:05 +0000"
@@ -1646,6 +1764,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-21 02:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-21 02:58:57 +0000"
     },
     "done": true
   },
