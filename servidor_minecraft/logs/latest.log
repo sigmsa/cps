@@ -1,42 +1,312 @@
-[20Dec2024 01:40:32.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/127.0.107.67:37195] logged in with entity id 50543 at (218.9348140654308, 63.0, 551.5525501929767)
-[20Dec2024 01:40:32.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
-[20Dec2024 01:41:31.575] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 01:43:09.130] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/51341, l='ServerLevel[world]', x=259.30, y=48.04, z=609.88] died: ABucketOfFriedChicken was slain by Beast Patient
-[20Dec2024 01:43:28.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Leech
-[20Dec2024 01:43:56.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Azami'/52803, l='ServerLevel[world]', x=237.30, y=39.42, z=450.70] died: Azami was slain by Beast Patient
-[20Dec2024 01:44:24.176] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 01:44:28.878] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 01:46:12.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Ashen Blood Beast Patient
-[20Dec2024 01:46:23.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
-[20Dec2024 01:46:32.173] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 01:46:51.872] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 01:48:41.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
-[20Dec2024 01:49:07.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/57103, l='ServerLevel[world]', x=234.02, y=74.00, z=626.03] died: Joker_de_Coeur was shot by Skeleton
-[20Dec2024 01:49:16.077] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 01:57:11.765] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
-[20Dec2024 01:57:11.766] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 147
-[20Dec2024 01:57:11.780] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 133
-[20Dec2024 01:58:24.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by Infected Villager
-[20Dec2024 01:58:33.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
-[20Dec2024 01:59:08.771] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 02:00:28.082] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
-[20Dec2024 02:02:37.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
-[20Dec2024 02:03:48.071] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 02:06:32.127] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 02:07:08.681] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Zero'/70164, l='ServerLevel[world]', x=192.46, y=68.00, z=460.72] died: Zero was slain by Gravetender Hollow
-[20Dec2024 02:07:28.777] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['The_Harbinger69'/70667, l='ServerLevel[world]', x=257.31, y=63.00, z=467.53] died: The_Harbinger69 was slain by Hollow Soldier
-[20Dec2024 02:08:30.778] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 02:08:32.379] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 02:08:55.314] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 150
-[20Dec2024 02:10:01.049] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['The_Harbinger69'/72564, l='ServerLevel[world]', x=230.11, y=66.88, z=490.99] died: The_Harbinger69 was slain by Hollow Soldier
-[20Dec2024 02:10:14.534] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 02:10:15.521] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 02:10:45.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
-[20Dec2024 02:11:18.278] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 02:11:57.472] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 02:12:57.572] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 02:13:17.075] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 02:13:18.676] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[20Dec2024 02:14:38.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
-[20Dec2024 02:16:05.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Disconnected
-[20Dec2024 02:16:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[21Dec2024 01:55:13.142] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[21Dec2024 01:55:13.146] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[21Dec2024 01:55:13.408] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Dec2024 01:55:13.459] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cps/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Dec2024 01:55:13.775] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cps/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 01:55:13.777] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cps/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 01:55:13.778] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cps/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 01:55:13.780] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cps/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 01:55:13.942] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[21Dec2024 01:55:15.723] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Dec2024 01:55:15.799] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[21Dec2024 01:55:15.935] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 01:55:22.754] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Dec2024 01:55:22.755] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Dec2024 01:55:23.876] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
+[21Dec2024 01:55:23.880] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.animal.sniffer.Sniffer from class com.mysticsbiomes.common.entity.animal.SeaOtter
+[21Dec2024 01:55:23.967] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[21Dec2024 01:55:23.970] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[21Dec2024 01:55:24.005] [main/INFO] [jeg/]: Registered the following Factions: [night_of_the_undead|1|minecraft:zombie,minecraft:zombie_villager,minecraft:husk|jeg:custom_smg,jeg:waterpipe_shotgun|jeg:revolver|jeg:double_barrel_shotgun, the_rattlers|2|minecraft:skeleton,minecraft:stray|jeg:custom_smg|jeg:semi_auto_rifle|jeg:bolt_action_rifle, nosy_business|3|minecraft:pillager,minecraft:vindicator|jeg:pump_shotgun|jeg:semi_auto_rifle,jeg:assault_rifle|jeg:repeating_shotgun,jeg:service_rifle, bad_piggies|2|minecraft:piglin,minecraft:piglin_brute|jeg:double_barrel_shotgun,jeg:waterpipe_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:hollenfire_mk2, hell_hogs|3|minecraft:zombified_piglin,minecraft:wither_skeleton|jeg:custom_smg,jeg:waterpipe_shotgun,jeg:double_barrel_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:soulhunter_mk2, lost_souls|3|jeg:ghoul|jeg:waterpipe_shotgun,jeg:revolver|jeg:custom_smg|jeg:holy_shotgun,jeg:blossom_rifle]
+[21Dec2024 01:55:24.057] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[21Dec2024 01:55:24.059] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[21Dec2024 01:55:24.060] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[21Dec2024 01:55:24.061] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
+[21Dec2024 01:55:24.101] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[21Dec2024 01:55:24.102] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[21Dec2024 01:55:24.105] [main/INFO] [terrablender/]: Registered region mysticsbiomes:overworld_provider to index 1 for type OVERWORLD
+[21Dec2024 01:55:24.277] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillaarmor] Starting version check at https://assets.melanx.de/updates/morevanillaarmor.json
+[21Dec2024 01:55:24.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillaarmor] Found status: UP_TO_DATE Current: 1.20.1-5.1.2 Target: null
+[21Dec2024 01:55:24.858] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[21Dec2024 01:55:25.359] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[21Dec2024 01:55:25.359] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Dec2024 01:55:25.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[21Dec2024 01:55:26.110] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Dec2024 01:55:27.278] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cps/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/assets/.mcassetsroot' uses unexpected schema
+[21Dec2024 01:55:27.279] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cps/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/data/.mcassetsroot' uses unexpected schema
+[21Dec2024 01:55:29.508] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag integrated_api:collections/any_taiga as it is missing following references: #repurposed_structures:collections/taigas (from integrated_api-1.5.1+1.20.1-forge.jar)
+[21Dec2024 01:55:30.052] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/amethyst_dust
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[21Dec2024 01:55:30.069] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:milling/amethyst_dust
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[21Dec2024 01:55:30.078] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:organic_compost_from_body_parts
+com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23142!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23142!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23142!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[21Dec2024 01:55:30.090] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:pressing/compound_plate
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[21Dec2024 01:55:30.098] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/compound
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[21Dec2024 01:55:30.109] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[21Dec2024 01:55:30.287] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1533 advancements
+[21Dec2024 01:55:31.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[21Dec2024 01:55:31.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Dec2024 01:55:31.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Dec2024 01:55:31.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Dec2024 01:55:31.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Dec2024 01:55:31.507] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Dec2024 01:55:31.596] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Dec2024 01:55:31.597] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Dec2024 01:55:31.597] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Dec2024 01:55:31.598] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Dec2024 01:55:31.670] [Server thread/INFO] [Framework/]: Loading server configs...
+[21Dec2024 01:55:31.954] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[21Dec2024 01:55:31.955] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[21Dec2024 01:55:31.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Dec2024 01:55:35.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Dec2024 01:55:39.975] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 01:55:40.034] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 01:55:40.046] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 01:55:40.064] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 01:55:40.101] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 01:55:40.111] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 01:55:40.240] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 01:55:40.263] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 01:55:40.275] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 01:55:40.276] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 01:55:40.323] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 01:55:40.666] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[21Dec2024 01:55:41.180] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
+[21Dec2024 01:55:41.560] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6395 ms
+[21Dec2024 01:55:41.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.948s)! For help, type "help"
+[21Dec2024 01:55:41.584] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Dec2024 01:56:02.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kayncer[/127.195.21.1:46403] logged in with entity id 266 at (1201.85487390621, 109.0, 1604.8366269743944)
+[21Dec2024 01:56:02.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer joined the game
+[21Dec2024 01:56:35.548] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 01:56:48.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Dec2024 01:56:48.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unnop mainyorick<--[HERE]
+[21Dec2024 01:56:58.543] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mad_Dog'/441, l='ServerLevel[world]', x=1265.13, y=26.00, z=1626.05] died: Mad_Dog was doomed to fall by Beast Patient
+[21Dec2024 01:57:10.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[21Dec2024 01:58:00.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Isn't It Iron Pick]
+[21Dec2024 01:58:37.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/127.0.107.67:40727] logged in with entity id 1758 at (1203.4431805300935, 105.0, 1602.6203827665354)
+[21Dec2024 01:58:37.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
+[21Dec2024 02:00:16.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 02:00:56.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by kayncer
+[21Dec2024 02:01:22.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Disconnected
+[21Dec2024 02:01:22.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[21Dec2024 02:01:22.504] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 02:01:26.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[21Dec2024 02:01:33.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Enchanter]
+[21Dec2024 02:01:35.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/127.0.107.67:37697] logged in with entity id 3082 at (1202.6435919488556, 109.0, 1605.7968384302176)
+[21Dec2024 02:01:35.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
+[21Dec2024 02:01:38.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 02:02:10.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by mainyorick
+[21Dec2024 02:02:19.450] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 02:02:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by mainyorick
+[21Dec2024 02:03:36.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by mainyorick
+[21Dec2024 02:04:54.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Dec2024 02:04:54.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keep inventory true<--[HERE]
+[21Dec2024 02:05:07.753] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Technoblade'/4333, l='ServerLevel[world]', x=1172.47, y=14.57, z=1678.56] died: Technoblade was slain by Skeleton
+[21Dec2024 02:05:10.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[21Dec2024 02:05:10.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule keepinventory true<--[HERE]
+[21Dec2024 02:05:37.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[21Dec2024 02:05:37.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule keepinventory true<--[HERE]
+[21Dec2024 02:06:27.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Gamerule keepInventory is now set to: true]
+[21Dec2024 02:06:31.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick fell from a high place
+[21Dec2024 02:07:12.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 02:07:21.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was doomed to fall by kayncer
+[21Dec2024 02:09:19.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by Bonewheel
+[21Dec2024 02:09:22.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 02:11:11.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/8141, l='ServerLevel[world]', x=1264.97, y=24.00, z=1597.46] died: Gistique was slain by Bonewheel
+[21Dec2024 02:12:18.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Monster Hunter]
+[21Dec2024 02:12:24.347] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 02:13:25.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/9084, l='ServerLevel[world]', x=1350.68, y=-52.00, z=1551.09] died: Pajera was slain by Skeleton
+[21Dec2024 02:14:15.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has reached the goal [Who built this?]
+[21Dec2024 02:14:30.048] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Bowser'/9336, l='ServerLevel[world]', x=1233.68, y=41.00, z=1463.56] died: Bowser was slain by Church Doctor
+[21Dec2024 02:14:58.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was blown up by Creeper
+[21Dec2024 02:15:01.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 02:15:43.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was blown up by Creeper
+[21Dec2024 02:15:46.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 02:15:52.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Diamonds!]
+[21Dec2024 02:16:15.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by Skeleton
+[21Dec2024 02:16:18.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 02:17:03.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by Beast Patient
+[21Dec2024 02:17:06.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 02:17:22.142] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 02:17:37.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by Skeleton
+[21Dec2024 02:17:40.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 02:18:42.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[21Dec2024 02:18:58.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by Ogre
+[21Dec2024 02:19:02.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[21Dec2024 02:19:20.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/14565, l='ServerLevel[world]', x=1367.23, y=-23.00, z=1471.42] died: mainyorick was slain by mainyorick
+[21Dec2024 02:20:29.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[21Dec2024 02:20:33.197] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Kraken'/14380, l='ServerLevel[world]', x=1442.05, y=-29.00, z=1425.42] died: Kraken was doomed to fall by Skeleton
+[21Dec2024 02:21:54.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Spore]
+[21Dec2024 02:22:25.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by Skeleton
+[21Dec2024 02:22:27.348] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/16288, l='ServerLevel[world]', x=1389.40, y=-31.00, z=1357.45] died: Deyvid was slain by mainyorick
+[21Dec2024 02:22:28.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[21Dec2024 02:22:41.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by mainyorick
+[21Dec2024 02:24:59.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[21Dec2024 02:25:09.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! -5.529077081439027,-3.3745813552517774,-8.053243841584617
+[21Dec2024 02:25:32.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 02:29:56.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[21Dec2024 02:30:25.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 02:30:32.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/22064, l='ServerLevel[world]', x=1278.40, y=21.00, z=1619.10] died: Ike was slain by Beast Patient
+[21Dec2024 02:31:16.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Teleported mainyorick to kayncer]
+[21Dec2024 02:31:47.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Sneak 100]
+[21Dec2024 02:32:25.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was killed by Witch using magic
+[21Dec2024 02:32:30.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 02:32:34.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Bowser'/23477, l='ServerLevel[world]', x=1487.83, y=-52.00, z=1445.82] died: Bowser was slain by Skeleton
+[21Dec2024 02:32:53.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Teleported kayncer to mainyorick]
+[21Dec2024 02:33:00.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Ice Bucket Challenge]
+[21Dec2024 02:33:28.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/22635, l='ServerLevel[world]', x=1336.30, y=-33.33, z=1433.42] died: Whisper was slain by Beast Patient
+[21Dec2024 02:36:07.803] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/25092, l='ServerLevel[world]', x=1315.13, y=-49.00, z=1540.53] died: That_Insane_Guy was slain by Bonewheel
+[21Dec2024 02:37:20.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Local Brewery]
+[21Dec2024 02:37:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was killed whilst fighting Skeleton Swordsman
+[21Dec2024 02:38:15.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Teleported mainyorick to kayncer]
+[21Dec2024 02:38:23.748] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Zero'/26817, l='ServerLevel[world]', x=1271.84, y=24.00, z=1432.17] died: Zero was slain by Skeleton
+[21Dec2024 02:39:11.297] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/26891, l='ServerLevel[world]', x=1420.46, y=-48.00, z=1451.21] died: Dany_Why was slain by Skeleton
+[21Dec2024 02:39:12.399] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 02:39:17.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was fungi-fied by Infected Human
+[21Dec2024 02:39:21.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 02:39:46.446] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 02:40:20.901] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 02:40:31.747] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 02:42:15.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick tried to swim in lava to escape Skeleton Swordsman
+[21Dec2024 02:42:25.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Teleported mainyorick to kayncer]
+[21Dec2024 02:42:44.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[21Dec2024 02:42:53.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
+[21Dec2024 02:44:09.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[21Dec2024 02:44:30.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 02:44:58.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Zero'/31929, l='ServerLevel[world]', x=1338.40, y=-24.08, z=1600.51] died: Zero was slain by mainyorick
