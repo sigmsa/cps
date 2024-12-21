@@ -1918,3 +1918,40 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [21Dec2024 03:05:28.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Teleported mainyorick to kayncer]
 [21Dec2024 03:05:41.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 03:05:41.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 03:05:53.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! 10.408075524284072,0.0,0.3918932227009009
+[21Dec2024 03:05:56.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! 10.368974410790315,0.39813013651728113,0.37892691694423775
+[21Dec2024 03:05:56.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 03:06:04.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Teleported mainyorick to kayncer]
+[21Dec2024 03:06:12.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! 0.36629405468147525,-10.516181541923913,0.4744878747326311
+[21Dec2024 03:06:13.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! -0.16100088280552427,-10.349999554455223,0.18992330258424772
+[21Dec2024 03:06:42.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! 9.645014901126046,0.0,-2.670604970816157
+[21Dec2024 03:07:07.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Teleported mainyorick to kayncer]
+[21Dec2024 03:07:16.700] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:07:32.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was killed
+[21Dec2024 03:07:32.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Killed kayncer]
+[21Dec2024 03:07:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 03:07:42.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[21Dec2024 03:07:53.446] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:08:49.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
+[21Dec2024 03:08:51.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick fell from a high place
+[21Dec2024 03:08:53.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! -7.038668924453532,-3.70826364724482,-6.704435805746471
+[21Dec2024 03:09:01.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! -6.785957643063966,3.3750001245381043,-6.915336741209671
+[21Dec2024 03:09:04.097] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:09:11.859] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:09:17.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 03:09:26.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/64506, l='ServerLevel[world]', x=1054.00, y=-38.43, z=402.83] died: ABucketOfFriedChicken was slain by Beast Patient
+[21Dec2024 03:10:01.129] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:10:01.130] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:10:22.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21Dec2024 03:10:29.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[21Dec2024 03:10:43.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 03:10:43.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 03:11:32.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by Beast Patient
+[21Dec2024 03:12:31.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/67685, l='ServerLevel[world]', x=1229.06, y=96.00, z=1623.07] died: mainyorick was slain by mainyorick
+[21Dec2024 03:12:36.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was slain by Beast Patient
+[21Dec2024 03:13:48.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[21Dec2024 03:14:03.710] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21Dec2024 03:14:08.000] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/68322, l='ServerLevel[world]', x=1260.99, y=63.00, z=1597.89] died: kayncer fell from a high place
+[21Dec2024 03:14:23.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[21Dec2024 03:15:43.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 03:15:43.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
